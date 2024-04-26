@@ -1,5 +1,5 @@
 # Skript.gg - GTA V
-[<img src="https://cdn.discordapp.com/emojis/985578817181589504.png"/>](https://skript.gg/) [<img src='https://cdn.discordapp.com/attachments/1233208196303294555/1233208539619655820/Logo-RK.png?ex=662c4273&is=662af0f3&hm=3b1b01f58820850e45a1fb32df432205768fbc399996a3cac3b5602936140117&'/>](https://discord.gg/ya6n8vrfcK)
+[<img src="https://cdn.discordapp.com/emojis/985578817181589504.png"/>](https://skript.gg/) [<img height="50" width="50" src='https://cdn.discordapp.com/attachments/1233208196303294555/1233208539619655820/Logo-RK.png?ex=662c4273&is=662af0f3&hm=3b1b01f58820850e45a1fb32df432205768fbc399996a3cac3b5602936140117&'/>](https://discord.gg/ya6n8vrfcK)
 
 ## Informações
 
