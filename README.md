@@ -6,8 +6,7 @@
 
 ## Informações
 
-- [x] Necessita de Pendrive USB
-- [x] ISO's Modificadas como GGoS/ReviOS
+- [x] Não funciona em ISO's Modificadas como GGoS/ReviOS
 
 ## Como Injetar | [Vídeo Tutorial](https://www.youtube.com/watch?v=pnslSFOsraI)
 
