@@ -25,15 +25,15 @@
 - Caso surja algum erro como "Desabilitar Vanguard, desativar Microsoft Defender"
 - Basta desativar as opções. Caso trave em 0% abra um ticket em nosso discord
 
-<p align="center"><img src='https://cdn.discordapp.com/attachments/1233208196303294555/1233209539818553405/image.png?ex=662c4362&is=662af1e2&hm=7b2afca3bec1d369e5dbe4f9585b21cdcfec6607416048dbea5a29e947a6817c&'/></p>
+<p align="center"><img src='https://cdn.discordapp.com/attachments/1233208196303294555/1233209539818553405/image.png?ex=665f0522&is=665db3a2&hm=3a891316fdccbafdac4f507b711226eb4cf89a0421441c509a9a793a9026e096&'/></p>
 
 6º Abra o jogo em `48% Waiting for Game`
 
-<p align="center"><img src='https://cdn.discordapp.com/attachments/1233208196303294555/1233209916156543016/image.png?ex=662c43bb&is=662af23b&hm=29b3c98fc34eded63efd66efdebc0ac2d141a172f48471e0411ef77405d61763&'/></p>
+<p align="center"><img src='https://cdn.discordapp.com/attachments/1233208196303294555/1233209916156543016/image.png?ex=665f057b&is=665db3fb&hm=9babb8d351ae97d91cd52e0234c55b2b923905b77c4329b2e8681950446176b8&'/></p>
 
 ### Assistência de Mira
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233210259225444422/aim_assistence.png?ex=662c440d&is=662af28d&hm=a21ffc8ff6a8aa98e873bdfe85ed3dcfbb56a085b650fdca53da3b8967e2a7df&"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233210259225444422/aim_assistence.png?ex=665f05cd&is=665db44d&hm=487deafaca5c3c302b6a9496e88eefe2a0bddf2ea1b7212a426f6efef6b02581&"/></p>
 
   - `Aimbot` (Legit/Rage)
   - `Prediction` Irá melhorar a precisão para alvos em movimento
@@ -54,7 +54,7 @@
 ### Visuais 
 ## Visuais Humanos
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233214272872386600/visuals_humans.png?ex=662c47ca&is=662af64a&hm=2b21226fe32c5cc69791d6e85f77b7e09aaddafd266275a62dba5eaacb0b8b9a&"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233214272872386600/visuals_humans.png?ex=665f098a&is=665db80a&hm=5e4bb797241e5d425e8e791a6d2755bb5723ae78aadda055ded257aad359afd9&"/></p>
 
   - `ESP` Ativa o ESP nos outros jogadores (revisar)
   - `Barra de Vida` Cria uma barra de vida nos jogadores da categoria selecionada
@@ -72,7 +72,7 @@
 
 ## Visuais Veículos
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233214728244035615/visuals_vehicles.png?ex=662c4837&is=662af6b7&hm=61a4ece148d5e8eb15ff6421a6c6d1c86f1a1b1d09cfbb149f864d456764040d&"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233214728244035615/visuals_vehicles.png?ex=665f09f7&is=665db877&hm=443cd23620715ba21b764b9ca959a431fbc99a3d10b167933fb72f33f7151591&"/></p>
 
   - `Veiculos` (Generic/Service/Air/Water)
   - `Marcação` Cria uma circunferência nos veículos da categoria selecionada
@@ -88,7 +88,7 @@
 
 ## Visuais Marcações
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233216090239406131/visuals_marks.png?ex=662c497b&is=662af7fb&hm=5fa8d993f54a0cbb227211ce58d8f2e2f831ad30766ed1a362ecad7114f8230b&"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233216090239406131/visuals_marks.png?ex=665f0b3b&is=665db9bb&hm=ea8623db4d955191891388fab3970f8ccb0ee0feb0e6896e3cbe44bfa0d6fd5c&"/></p>
 
   - `Veiculos` (Generic/Service/Air/Water)
   - `Marcação` Cria uma circunferência nos veículos da categoria selecionada
@@ -100,7 +100,7 @@
 
 ## Visuais Objetos
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233216163014512710/visuals_objects.png?ex=662c498d&is=662af80d&hm=6dd446c36cce113e17546af47ee6b7a4e18be77bc016ff428c77feefcf543405&"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233216163014512710/visuals_objects.png?ex=665f0b4d&is=665db9cd&hm=a93b26cfe89e9b93ea2163705b2c5ed12b5f44575d940ee587ac3eafc9ceac16&"/></p>
 
   - `Object ESP` Enabled Ativa o Wallhack de objetos
   - `Select Object` Key Seleciona o objeto mais próximo da mira ao pressionar a tecla definida
@@ -108,7 +108,7 @@
 
 ### Jogador 
 ## Jogador Outros
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233218064615477258/jogador_outros.png?ex=662c4b52&is=662af9d2&hm=ae5ec43f5d28b7143aa603ec8ea5d2b4344b9163b1911df06a060ea2885717d3&"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233218064615477258/jogador_outros.png?ex=665e6452&is=665d12d2&hm=17dab4aa8ce0e1bc71e3acd5adb5b4b8e24606e917449da6ee6ee8a704c389da&"/></p>
 
 - `Anti Headshot` Faz com que o usuário tome diversos tiros na cabeça sem morrer
 - `True Godmode` Faz com que o usuário fique imortal
@@ -130,14 +130,14 @@
 - `Noclip Lento` Faz com que o Noclip se movimente de forma lenta (Ao pressionar LSHIFT não irá mudar a velocidade)
 
 ## Jogador Spawn de Armas
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233218147713155112/jogador_spawn.png?ex=662c4b66&is=662af9e6&hm=007e9474d5c02824aaf66f12fef982eb0d283a499f9e69b28f2dd4568746a6a7&"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233218147713155112/jogador_spawn.png?ex=665e6466&is=665d12e6&hm=511eae48da4d83538bb1a7ac53ba345cf0ae08bb902ab9389124b00bd49627f8&"/></p>
 
 - `Dar Arma` Spawna a arma selecionada para o usuário
 - `Adicionar Attachments` Adiciona o componente selecionado na arma equipada
 - `Remover Attachments` Remove o componente selecionado na arma equipada
 
 ## Jogador Modificações
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233218259361202276/jogador_modify.png?ex=662c4b81&is=662afa01&hm=d8c4df47bdaa742fad3d39f7d03c9e2cb96a1d2bd632aa03266c108e1fda85b6&"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233218259361202276/jogador_modify.png?ex=665e6481&is=665d1301&hm=d94c1b7efbde468df9e3acc383f996065e7b0d889dd8d9efd4eef4f6077712b9&"/></p>
 
 - `Munição Infinita` Ativa munição infinita para todas as armas
 - `Bottomless Clip` Faz com que o número de munições fique fixo (não diminui)
@@ -149,7 +149,7 @@
 - `Regenerar Munição` Adiciona munição para a arma equipada
 
 ## Jogador Teleporte
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233218864137900042/jogador_tp.png?ex=662c4c11&is=662afa91&hm=7331014c11d55b0608a1d2f3f32711d353680bc36cc0a6dbbf2e5b4e0a61e677&"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233218864137900042/jogador_tp.png?ex=665e6511&is=665d1391&hm=b1ad9a47c6ebcddac75b14a684b6879dbf3d3c4a50a3d4fc9c5aa6a03560c8eb&"/></p>
 
 - `Teleportar para Marcação` Teleporta para o local selecionado (Ex: FBI Tower, Maze Bank, etc)
 - `Teleportar para o Waypoint` Teleporta para o lugar marcado no mapa
@@ -165,7 +165,7 @@
 
 ### Veículos
 ## Veículos Geral
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233219650519568545/veiculos_geral.png?ex=662c4ccc&is=662afb4c&hm=1c2fed5ae63c401b3e7cfa2a178c6e2ae6bdfce708ca0073bd11eaa60bfd7510&"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233219650519568545/veiculos_geral.png?ex=665e65cc&is=665d144c&hm=56af1c7fe1a1f9285b1908060ff73addeffb2b67ccc50d46364ed167f0cc1d52&"/></p>
 
 - `True Godmode` Faz com que o veículo fique indestrutível
 - `Demi GodMode` Repara o veículo lentamente
@@ -187,7 +187,7 @@
 - `No Collision` Faz com que o veículo não colida com objetos
 
 ## Veículos Selecionado
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233219650964291604/veiculos_select.png?ex=662c4ccc&is=662afb4c&hm=04c563e7ccb50fd5e6bfd80910c8d367b5654d51ac814105ccfe8c0edb85d6d3&"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233219650964291604/veiculos_select.png?ex=665e65cc&is=665d144c&hm=1bd322c887c77d02880a71168cefe6dd0e21ff589f2a00ae72c7c1d8c5ab73e3&"/></p>
 
 - `Teleportar` Para o Veículo Focado Teleporta para o veículo selecionado ao pressionar a tecla definida
 - `Physgun` Move o veículo selecionado para onde sua mira estiver
@@ -198,7 +198,7 @@
 - `Tecla para abrir o menu de acesso rápido` Abre o menu de ações para realizar no veículo selecionado
 
 ## Veículos Spawning
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233219651501297724/veiculos_spawn.png?ex=662c4ccd&is=662afb4d&hm=5deb6007a7d13607895cb822c6a20ab072adf5bb8447da5ba5bfabe597f393b6&"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233219651501297724/veiculos_spawn.png?ex=665e65cd&is=665d144d&hm=3bcc0992aac0c034593d0e567f045a20a1dd3ef6a17be7e7f38ae7fb79e6fb3c&"/></p>
 
 - `Spawn Dentro` Faz com que o usuário vá para dentro do veículo spawnado
 - `Performance no Máximo` Tuna o veículo no máximo (Motor, Blindagem, Transmissão, Freio, Transmissão)
@@ -207,7 +207,7 @@
 - `Spawn Spawna` o veículo selecionado
 
 ## Veículos Customização
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233219652142764144/veiculos_custom.png?ex=662c4ccd&is=662afb4d&hm=855bac815e79a09869d206fd6d185e7a888656cc851c7a0efc7bd8254026bfd3&"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233219652142764144/veiculos_custom.png?ex=665e65cd&is=665d144d&hm=65327f9bf3007353c69bdb402f9dea29d5a9dd312b566794218bc08f7e1c47a8&"/></p>
 
 - `Cor Primária` Troca a cor primária do veículo
 - `Cor Secundária` Troca a cor secundária do veículo
@@ -219,7 +219,7 @@
 
 
 ### Fivem
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233220926145826827/fivem.png?ex=662c4dfc&is=662afc7c&hm=f81becfce629b979b9946350dd1fdc6c90cf284fedaf2c2278bcbabb638debd6&"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233220926145826827/fivem.png?ex=665e66fc&is=665d157c&hm=4f810d69948241f2c6a33c75f54aea06b4ba44a9b96b2160f8f4ef67c611300a&"/></p>
 
 - `Constantly falling` Faz com que o player selecionado fique caindo no chao até que seja desabilitado a funcao (Troll)
 - `Teletransportar para` Teletransporta para o Player Selecionado
@@ -228,7 +228,7 @@
 
 ### Outros
 ## Configurações
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233221339943534622/outros_config1_.png?ex=662c4e5f&is=662afcdf&hm=ac12b7cd7166f7f3e3967486e4ee1009b6cb216075acec3cd37bb7ceea0a36a5&"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233221339943534622/outros_config1_.png?ex=665e675f&is=665d15df&hm=357be1988bc1d0ce4a1f3c2633ec6701a4fb83f61a22660a6a9ab4c69e97f6f1&"/></p>
 
 
 - `Unload/Desligar` Desinjeta o Cheat do Jogo
@@ -239,7 +239,7 @@
 - `Tema Escuro` Ativa o modo escuro
 
 ## Configurações
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233221340358643822/outros_config1.png?ex=662c4e5f&is=662afcdf&hm=9d8d831647a3fcb20378110e94625faffa3def1306b31e0ef890b7728285e995&"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233221340358643822/outros_config1.png?ex=665e675f&is=665d15df&hm=8ede4a95899ec528989724a7c9133fbdb327ed1b2f2d9f05d7e74c90d8d18ec8&"/></p>
 
 - `Criar Nova` Cria uma nova configuração
 - `Deletar` Deleta a configuração selecionada
@@ -251,7 +251,7 @@
 
 
 ## Lista de Amigos
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233221755741540482/friend_list.png?ex=662c4ec2&is=662afd42&hm=1e81901b074827a677385ea74c6fe7e42aee725f8a5eaa8da2929f9196d31573&"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1233208196303294555/1233221755741540482/friend_list.png?ex=665e67c2&is=665d1642&hm=05ccbb6b2f1eb9affaa2375ea454945be0df6948108382a7216c02c9e2e3d0fd&"/></p>
 
 - `Add Pessoa Próxima Como Amigo` Adiciona a pessoa mais próxima à lista de pessoas que não serão afetadas pelo aimbot
 - `Adicionar Novo Grupo` Cria um novo grupo onde é possível organizar todas as pessoas
