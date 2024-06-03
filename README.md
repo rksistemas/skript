@@ -1,8 +1,8 @@
-[<img height="50" src='https://cdn.discordapp.com/attachments/1233208196303294555/1233208539619655820/Logo-RK.png?ex=662c4273&is=662af0f3&hm=3b1b01f58820850e45a1fb32df432205768fbc399996a3cac3b5602936140117&'/>](https://rkseller.com.br)
-# RK SELLER
+
+[# RK SELLER](https://rkseller.com.br)
 
 # Skript.gg - GTA V
-[<img src="https://cdn.discordapp.com/emojis/985578817181589504.png"/>](https://rkseller.com.br) [Acesse o discord](https://discord.gg/ya6n8vrfcK)
+[Acesse o discord](https://discord.gg/ya6n8vrfcK)
 
 ## Informações
 
@@ -19,7 +19,7 @@
 
 4º - Efetue o Login com sua key ou usuário
 
-<p align="center"><img src='https://cdn.discordapp.com/attachments/1233208196303294555/1233209442925805588/image.png?ex=662c434b&is=662af1cb&hm=910ba4af422ea5734d725be5b80b9759f811457112ac6864d856c16405690be7&'/></p>
+<p align="center"><img src='https://cdn.discordapp.com/attachments/1233208196303294555/1233209442925805588/image.png?ex=665f050b&is=665db38b&hm=8886baa8959b448751387bc16610e9c1d29817866f31bfb37d5a77d486710e52&'/></p>
 
 5º Selecione a assinatura do GTA V e clique em `Load`
 - Caso surja algum erro como "Desabilitar Vanguard, desativar Microsoft Defender"
